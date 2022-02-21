@@ -107,7 +107,6 @@ Voting "No" to delegation is a vote for rent-seeking, for feudalism.
 Though every known permissionless BFT chain has PoS delegation there are some serious tradeoffs to it.
 
 
-
 * The dynamism favors capital, and entities  that can accumulate capital (e.g. exchanges).
 * The delegations compete with each other for finite capital ("delegation wars"), not for new users.
 * Issuance (inflation) schemes dilute end-users in favor of unproductive capital.
@@ -121,7 +120,7 @@ I think we can do better given the types of stakeholders we currently have (and 
 
 ## Option 2 - Delegated Towers
 
-The principal innovation of 0L is creating a novel sybil-resistance technique which is acceptable for bootstrapping a BFT consensus network; Delay Towers.
+The principal innovation of 0L is creating a novel sybil-resistance technique which is acceptable for bootstrapping a BFT consensus network: Delay Towers.
 
 This is an 0L invention. Not seen anywhere else. It has some really special properties.
 
@@ -134,8 +133,6 @@ It's a pretty exciting new invention in sybil-resistance for blockchains.
 But we shouldn't do it just because it's shiny.
 
 It has important properties:
-
-
 
 * No coins are needed to participate. No need to pay for anything.
 * The protocol shares a greater part of the rewards to end users.
@@ -252,11 +249,11 @@ If the decision is to abandon Carpe as a growth strategy, we need to do that wit
 
 If the network votes "No" then we will need leadership from someone with a vision of how we grow without Carpe (and without delegation). I personally don't have any proposals for that, and the alternatives I've outlined above don't persuade me.
 
-Voting "Yes" for the proposal doesn't mean implementing a fully-formed Teams without any mistakes. Phase 1 is for testing, but it also means committing to a vision that includes Carpe and rewards flowing to more than 100 people. A "Yes" vote doesn't  mean getting it right the first time, but is a commitment to being proactive. 
+Voting "Yes" for the proposal doesn't mean implementing a fully-formed Teams without any mistakes. Phase 1 is for testing, but it also means committing to a vision that includes Carpe and rewards flowing to more than 100 people. A "Yes" vote doesn't mean getting it right the first time, but is a commitment to being proactive. 
 
 
 # My View
 
 Teams is exuberant. It's a new and plausible idea in a domain (delegation) that sees little innovation. It's also a different vision of Proof-of-Stake. If it works, it's going to be a lot of fun. Observe the success and dynamism of other networks with end-user miners (e.g. Chia, with 500K miners participating). 
 
-This is something exciting to aspire to.
+This is something exciting to aspire toward.
