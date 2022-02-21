@@ -23,11 +23,9 @@ At 0L we spend a lot of time fixing free-mining instead of creating technologies
 
 Working on The Game doesn't always yield fruit. It has diminishing returns. It distracts resources from technology, applications, marketing, etc. And it requires maintenance, as The Game is interactive. It requires in-flight updates which are often contentious. 
 
-The Teams proposal is one such change to the Game. And once approved it will still require more work; More iterating on The Game.
+The Teams proposal is one such change to the Game. And once approved it will still require more work, more iterating on The Game.
 
-The process of debating Teams (and not making great progress at that) has revealed a typical crossroads in early networks::
-
-
+The process of debating Teams (and not making great progress at that) has put us at a crossroads:
 
 * a) spend time to iterate on The Game so it perpetually includes new people, or 
 * b) freeze the current stakes, the game is fine, let's push (somehow?) to get wider recognition and use.
